@@ -3,10 +3,6 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#Lester Sotolongo
-#Human-Computer Interaction CAP4104
-#Class Project: UI/UX Design with Streamlit
-
 # API details for Exercise
 EXERCISE_API_HOST = "exercisedb.p.rapidapi.com"
 EXERCISE_API_KEY = "2aaf684721msh636aac02ab83f5bp194eb6jsn2ee3bdca391d"
