@@ -5,13 +5,13 @@ import matplotlib.pyplot as plt
 
 # API details for Exercise
 EXERCISE_API_HOST = "exercisedb.p.rapidapi.com"
-EXERCISE_API_KEY = "2aaf684721msh636aac02ab83f5bp194eb6jsn2ee3bdca391d"
+EXERCISE_API_KEY = "your api key"
 
 # API details for Nutrition
 NUTRITION_API_URL = "https://food-nutrition-information.p.rapidapi.com/foods/search"
 NUTRITION_API_HEADERS = {
     "X-RapidAPI-Host": "food-nutrition-information.p.rapidapi.com",
-    "X-RapidAPI-Key": "2aaf684721msh636aac02ab83f5bp194eb6jsn2ee3bdca391d"
+    "X-RapidAPI-Key": "your api key"
 }
 
 # Helper function for fetching exercises
